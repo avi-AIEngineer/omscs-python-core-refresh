@@ -7,8 +7,11 @@
 
 
 ### Day 2:
--Implemented basics - String Reversal, Palindrome checks, and BuzzPop.
+-Implemented basics - String Reversal, Palindrome checks, and BuzzPop. Unit testing framework - unittest (module).
 
 ### Day 3:
 -Implemented branching - score_to_letter.
 -Learnt about TypeVar generics - Iterables (loopable source), TypeVar (generic type placeholder), List and Set (non duplicate).
+
+### Day 4
+-Learnt about Dictionary [key:value], regex (re) module. 
