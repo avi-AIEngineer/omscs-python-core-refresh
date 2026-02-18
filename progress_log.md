@@ -11,4 +11,4 @@
 
 ### Day 3:
 -Implemented branching - score_to_letter.
--Learnt about TypeVar generics - Iterables (loopable source), TypeVar (generic type placeholder) and 
+-Learnt about TypeVar generics - Iterables (loopable source), TypeVar (generic type placeholder), List and Set (non duplicate).
