@@ -16,3 +16,7 @@
 ### Day 4
 -Learnt about Dictionary [key:value], regex (re) module. 
 -Learnt CSV, dataclasses and pathlib modules (path class), immutable class (Frozen), DictReader.
+
+### Day 5,6
+-Implemeted a small command line budget tracker utility that adds expenses to CSV, lists previously saved expenses and gets a monthly summary grouped by category.
+- Reusable functions, Data modeling with @dataclass, structured object, File I/O -> csv.DictWriter, csv.DictReader & Path from pathlib. 
